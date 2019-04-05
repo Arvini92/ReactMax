@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-import Aux from '../../../hoc/Aux'
+import Aux from '../../../hoc/Auxi'
 // import Radium from 'radium';
 
 import withClass from '../../../hoc/withClass';
